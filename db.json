@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Coffee Maker",
+      "price": 45,
+      "category": "Appliances"
+    },
+    {
+      "id": "4",
+      "name": "Smartphone",
+      "price": 800,
+      "category": "Electronics"
+    },
+    {
+      "id": "5",
+      "name": "Headphones",
+      "price": 100,
+      "category": "Audio"
+    },
+    {
+      "id": "6",
+      "name": "Watch",
+      "price": 250,
+      "category": "Accessories"
+    },
+    {
+      "id": "7",
+      "name": "Monitor",
+      "price": 300,
+      "category": "Electronics"
+    },
+    {
+      "id": "8",
+      "name": "Keyboard",
+      "price": 50,
+      "category": "Accessories"
+    },
+    {
+      "id": "9",
+      "name": "Mouse",
+      "price": 25,
+      "category": "Accessories"
+    },
+    {
+      "id": "10",
+      "name": "Printer",
+      "price": 200,
+      "category": "Office"
+    },
+    {
+      "id": "12",
+      "name": "Speaker",
+      "price": 120,
+      "category": "Audio"
+    },
+    {
+      "id": "13",
+      "name": "Tablet",
+      "price": 400,
+      "category": "Electronics"
+    },
+    {
+      "id": "14",
+      "name": "Backpack",
+      "price": 60,
+      "category": "Fashion"
+    },
+    {
+      "id": "15",
+      "name": "Desk Lamp",
+      "price": 35,
+      "category": "Furniture"
+    },
+    {
+      "id": "16",
+      "name": "Water Bottle",
+      "price": 20,
+      "category": "Lifestyle"
+    },
+    {
+      "id": "17",
+      "name": "Gaming Console",
+      "price": 500,
+      "category": "Gaming"
+    },
+    {
+      "id": "18",
+      "name": "Microwave",
+      "price": 180,
+      "category": "Appliances"
+    },
+    {
+      "id": "19",
+      "name": "Vacuum Cleaner",
+      "price": 220,
+      "category": "Appliances"
+    },
+    {
+      "id": "20",
+      "name": "Electric Kettle",
+      "price": 40,
+      "category": "Appliances"
+    },
+    {
+      "name": "horor",
+      "price": 23,
+      "category": "film",
+      "id": "1778789687498"
+    },
+    {
+      "name": "toy",
+      "price": 9,
+      "category": "toys for child",
+      "id": "1778789958749"
+    }
+  ]
+}
